@@ -42,10 +42,11 @@ This is where I share projects I find interesting. Game-design discussions and r
 
 <sub>余烬远征的线上试玩为固定版本快照，不自动同步最新源码；其他作品的当前范围见各仓库说明。 / Ember Expedition's hosted demo is a fixed snapshot and does not automatically sync with the latest source; see each repository for its current scope.</sub>
 
-### 两个开发小工具 / Two Creative Tools
+### 两个小工具 / Two Small Tools
 
 - **Perfect Pixel Studio** — 像素画网格校正、颜色精修与透明背景处理，支持 PNG / ZIP 导出；提供 Windows 版和本地处理图片的网页版。 / A pixel-art cleanup tool for grid correction, color refinement, transparency, and PNG / ZIP export, available on Windows and in the browser with local image processing.  
   [在线使用 / Open Web App](https://clredfield.github.io/Perfect-Pixel/) · [下载 / Download](https://github.com/CLRedfield/Perfect-Pixel/releases/latest) · [源码 / Source](https://github.com/CLRedfield/Perfect-Pixel)  
   <sub>核心网格算法基于 MIT 授权的 theamusing/perfectPixel。 / Core grid algorithm based on the MIT-licensed theamusing/perfectPixel.</sub>
-- **铁锈战争模组编辑器 / RW Mod Editor** — 面向 Windows 和 Android 的模组工作台：INI 补全与检查、文本 / 表单编辑、图片与音频预览，以及 .rwmod 打包与部署。 / A Windows and Android modding workbench with INI completion and diagnostics, text/form editing, image and audio previews, and .rwmod packaging and deployment.  
-  [下载 / Download](https://github.com/CLRedfield/RustedWarfare-ModEditor/releases/latest) · [源码 / Source](https://github.com/CLRedfield/RustedWarfare-ModEditor)
+- **Rosemewbot** — 面向 Windows 的 AstrBot + NapCat QQ 机器人整合应用，在统一桌面界面完成组件准备、启动管理、模型接入、日志查看与诊断修复。 / A Windows desktop app integrating AstrBot and NapCat for QQ bots, with component setup, startup controls, model configuration, logs, diagnostics, and repair in one interface.  
+  [项目与使用说明 / Project & Guide](https://github.com/CLRedfield/Rosemewbot)  
+  <sub>基于 AstrBot 与 NapCat 整合，适合小范围试用；不是 QQ 官方机器人。 / Built around AstrBot and NapCat for small-scale trials; not an official QQ bot.</sub>
