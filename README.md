@@ -12,6 +12,7 @@ B 站关注 **Rosepineus** 喵，谢谢喵（试玩抓到虫或者想聊游戏�
 
 ### 点开就能玩
 
+- **星穹骰局 StarRailCard**：星铁「上骰了！战力党！」同人卡牌骰子对战，做了单机闯关、1v1、双人共斗和 4~8 人联机派对 · [试玩](https://clredfield.github.io/StarRailCard/) · [源码](https://github.com/CLRedfield/StarRailCard)
 - **楚河弈策 CardChess**：中国象棋 × 卡组构筑，边下棋边打牌 · [试玩](https://clredfield.github.io/CardChess/) · [源码](https://github.com/CLRedfield/CardChess)
 - **裂旗战争 Shattered States**：受钢四 KX / TNO 启发的架空历史轻策略战棋，支持联机 · [试玩](https://clredfield.github.io/AmericaWar/) · [源码](https://github.com/CLRedfield/AmericaWar)
 - **操盘杀 StockClash**：把股市行情压缩成几分钟一局的模拟操盘，可打 AI 也能拉朋友互坑 · [试玩](https://clredfield.github.io/StockClash/) · [源码](https://github.com/CLRedfield/StockClash)
