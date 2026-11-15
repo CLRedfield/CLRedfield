@@ -19,7 +19,7 @@ B 站关注 **Rosepineus** 喵，谢谢喵（试玩抓到虫或者想聊游戏�
 - **余烬远征 Ember Expedition**：八关 Boss 战的随从卡牌肉鸽 · [试玩](https://ember-expedition-5jwyc6.v2.appdeploy.ai/) · [源码](https://github.com/CLRedfield/ember-expedition)
 - **指挥者前线 Terra War**：低微操 RTS，下完有限指令自动推演，做了非对称阵营和肉鸽模式 · [试玩](https://clredfield.github.io/terrawar/) · [源码](https://github.com/CLRedfield/terrawar)
 - **裂界战线 Riftfront**：即时战场 + 卡牌部署的 PVE 原型，含战役与远征模式 · [试玩](https://clredfield.github.io/riftfront/) · [源码](https://github.com/CLRedfield/riftfront)
-- **阵线协议 Frontline Protocol**：三线阵型 + 公共牌堆博弈，支持单机 AI 和多人房间 · [试玩](https://clredfield.github.io/frontline-protocol/) · [源码](https://github.com/CLRedfield/frontline-protocol)
+- **弧光战策 Arclight Tactics**：二次元科幻风三国杀 × 六格战线布阵，做了单机战役、1v1 / 2v2、5~8 人身份军争和联机房间 · [试玩](https://clredfield.github.io/frontline-protocol/) · [源码](https://github.com/CLRedfield/frontline-protocol)
 
 ### 顺手造的小工具
 
